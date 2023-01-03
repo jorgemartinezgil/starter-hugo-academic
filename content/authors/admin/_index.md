@@ -1,6 +1,7 @@
 ---
 title: Jorge Martinez-Gil
 role: Senior Research Scientist (Data & Knowledge Engineering)
+avatar_filename: https://www.jorgemar.com/files/jorge.jpg
 bio: My research interests include data engineering, knowledge engineering, and
   knowledge-based systems
 interests:
